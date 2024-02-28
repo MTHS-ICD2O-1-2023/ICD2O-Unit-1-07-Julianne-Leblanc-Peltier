@@ -1,4 +1,9 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Julianne Leblanc-Peltier
+* Created on: Feb 2024
 * This file contains the CSS for index.html
 */
+
+.colours {
+  background-color: rgb(176 226 136);
+  color: purple;
+}
